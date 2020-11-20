@@ -3,7 +3,7 @@
 This is my Capstone Project for the Udacity C++ Nanodegree. After launching the program you can choose (with your mouse) between [Merge Sort](https://en.wikipedia.org/wiki/Merge_sort), [QuickSort](https://en.wikipedia.org/wiki/Quicksort), and [Bubble Sort](https://en.wikipedia.org/wiki/Bubble_sort). When the sorting is done, you can generate a new array and pick another algorithm. To exit, press ESC.
 <br>
 
-![alt text](https://github.com/mestto/Sorting-Visualizer/blob/master/images/visu.png "Logo Title Text 1")
+![alt text](https://github.com/pmarangone/Sorting-Visualizer/blob/master/images/quickSort.gif "Logo Title Text 1")
 
 
 ## Project Structure
